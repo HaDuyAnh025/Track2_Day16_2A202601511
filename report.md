@@ -12,3 +12,7 @@
 | Inference throughput | ~690,000 dòng/giây | Rất cao, tận dụng tốt phần cứng CPU giá rẻ |
 
 **Kết luận:** Với chi phí hạ tầng ước tính chỉ ~$0.10/giờ, luồng CPU + LightGBM là lựa chọn hiệu quả về chi phí cho bài toán tabular data như fraud detection — không cần đến GPU đắt đỏ vốn chỉ thực sự cần thiết cho các tác vụ LLM/ngôn ngữ tự nhiên.
+
+
+
+terraform.zip: https://github.com/HaDuyAnh025/Track2_Day16_2A202601511/releases/tag/v1.0-terraform
